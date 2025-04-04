@@ -36,7 +36,7 @@ This project implements a hybrid deep learning model combining **Convolutional N
 ## 📝 How to Use
 
 1. Clone the repo and install dependencies:
-```bash
+
 pip install torch torchvision matplotlib
 import torch
 from model import YourModelClass  # Replace with your model class
