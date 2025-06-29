@@ -52,7 +52,7 @@ You can use any labeled plant disease dataset, such as:
 PlantVillage Dataset
 
 📊 Sample Output
-Accuracy: ~XX% (Replace with actual)
+Accuracy: ~99.5% (Replace with actual)
 ![WhatsApp Image 2025-04-04 at 02 08 00_7bd5f58e](https://github.com/user-attachments/assets/588522fd-e190-4fe1-a15c-09c6cfa21d00)
 
 
